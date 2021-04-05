@@ -218,4 +218,3 @@ fi
 if "${POWERLINE_CONFIG_COMMAND}" shell --shell=zsh uses tmux ; then
 	_powerline_init_tmux_support
 fi
-
