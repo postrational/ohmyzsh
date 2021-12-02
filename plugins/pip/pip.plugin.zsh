@@ -95,3 +95,6 @@ alias pipir="pip install -r requirements.txt"
 
 # Uninstalled all installed packages
 alias pipunall="pipreq && pip uninstall -r requirements.txt -y && rm -rf requirements.txt"
+
+# Update pip itself to the latest version
+alias pipup="pip install -U pip"
